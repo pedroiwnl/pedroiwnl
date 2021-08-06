@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pedroiwnl
-- 👀 I’m interested in aprender a programar!
-- 🌱 I’m currently learning  liguagem de programação Phyton       
-  - 💞️ I’m looking to collaborate on  construção de softwares                                                                                                                    
-- 📫 How to reach me : Atráves de e-mail .
+- 👀 I’m interested in learn to program!
+- 🌱 I’m currently learning Python programming language     
+  - 💞️ I’m looking to collaborate on software building                                                                                                                   
+- 📫 How to reach me Through my personal email
+- It will be a pleasure to work with each of you! 😀
